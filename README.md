@@ -8,7 +8,7 @@ To run you just simply need to
 `python3 code/main.py`
 
 Note that you need the `pygame` package installed to run the game! To install it just do
-`pip install pygame`
+`pip install pygame`.
 
 Controls:
 
